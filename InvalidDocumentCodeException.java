@@ -1,6 +1,7 @@
 /**
  * Created by Henry Nichols on 4/3/15.
  */
+ 
 //
 // Represent an exceptional situation in which a business document designation begins with an improper code.
 //
