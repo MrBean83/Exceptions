@@ -1,5 +1,5 @@
 /**
- * Created by Henroid83 on 4/3/15.
+ * Created by Henry Nichols on 4/3/15.
  */
 public class InvalidContinueCode extends Exception
 {
